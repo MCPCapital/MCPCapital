@@ -6,4 +6,4 @@ I’m currently working at [SourceHat - Smart Contract Audit & Development Servi
 
 [Get a free quote for a smart contract audit today!.](https://sourcehat.com/)
 
-![SourceHat Labs Inc.](https://sourcehat.com/images/solidity-sourcehat-logo.svg)
+![SourceHat Labs Inc.](https://i.imgur.com/MdYpKy6.jpeg)
